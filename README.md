@@ -1,5 +1,3 @@
-```sql
-```
 # Práctico 3 Base De Datos – Jose Ignacio Lavecchia
 
 1- '+ OR 1 = 1 –  
