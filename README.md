@@ -1,5 +1,3 @@
-# Practico 3 Base De Datos
-
 ```sql
 ```
 # Práctico 3 Base De Datos – Jose Ignacio Lavecchia
